@@ -1,0 +1,9 @@
+c69c20476c6e5a1be73cac24f02e500d 8bf8db31494c72b4633724d82601e01d ffffffffffffffffffffffffffffffff 213888 /Users/provdk/Documents/cppdb/build/Debug/cppdb
+000000004a5c43360000000000002739 499d1cbd17ff77fbee031074f1517a82 ffffffffffffffffffffffffffffffff 88772 /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringTokenizer.o
+000000004bfa5a2e000000000000035c 46abdb9ed406dd02b6182d1e341e22b5 ffffffffffffffffffffffffffffffff 385996 /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/DataBase.o
+000000000000003a0000000000000108 1d751255dc8807dd9c610db087b9e126 ffffffffffffffffffffffffffffffff 35080 /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringUtils.o
+fffffffffffffffffffffffffffffffe fffffffffffffffffffffffffffffffe ffffffffffffffffffffffffffffffff 198884 /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/Table.o
+000000004bfa9a5400000000000015d6 c89b9ae01cf19f4ecb1f5ea66e5d62ca ffffffffffffffffffffffffffffffff 611696 /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o
+000000004bf9d95e0000000000000335 fcc91aceb73fac7630f0225e85c1ad37 ffffffffffffffffffffffffffffffff 0 /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/MainDB.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/InputTokeizer.o
+ffffffffffffffffffffffffffffffff 816240952837c10073a7bf9ba8f6a277 ffffffffffffffffffffffffffffffff 2239070 /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.s

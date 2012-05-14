@@ -1,0 +1,296 @@
+Tcppdb
+v7
+r0
+t296429868.290528
+cCheck dependencies
+cCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o /Users/provdk/Documents/cppdb/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/Table.o /Users/provdk/Documents/cppdb/Table.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringTokenizer.o /Users/provdk/Documents/cppdb/StringTokenizer.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringUtils.o /Users/provdk/Documents/cppdb/StringUtils.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/DataBase.o /Users/provdk/Documents/cppdb/DataBase.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/provdk/Documents/cppdb/build/Debug/cppdb normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Users/provdk/Documents/cppdb/DataBase.cpp
+c000000004BFAA76E0000000000000321
+t1274718062
+s801
+i<string>
+i<map>
+i<string>
+i"DataBase.h"
+i"StringTokenizer.h"
+
+N/Users/provdk/Documents/cppdb/DataBase.h
+c000000004BFA5B760000000000000128
+t1274698614
+s296
+i<string>
+i<map>
+i<string>
+i"Table.h"
+
+N/Users/provdk/Documents/cppdb/InputTokeizer.cpp
+c000000004BF9DE3100000000000000AA
+t1274666545
+s170
+i"InputTokeizer.h"
+
+N/Users/provdk/Documents/cppdb/InputTokeizer.h
+c000000004BF9DE31000000000000008C
+t1274666545
+s140
+
+N/Users/provdk/Documents/cppdb/MainDB.cpp
+c000000004BF9ECC50000000000000378
+t1274670277
+s888
+i<string>
+i"Table.h"
+i"MainDB.h"
+
+N/Users/provdk/Documents/cppdb/MainDB.h
+c000000004BF9EB670000000000000141
+t1274669927
+s321
+
+N/Users/provdk/Documents/cppdb/StringConsts.h
+c000000004BFA67CC000000000000022D
+t1274701772
+s557
+i<string>
+
+N/Users/provdk/Documents/cppdb/StringTokenizer.cpp
+c000000004BFAF1A70000000000000B99
+t1274737063
+s2969
+i<string>
+i<sstream>
+i<iostream>
+i<stdlib.h>
+i"StringTokenizer.h"
+
+N/Users/provdk/Documents/cppdb/StringTokenizer.h
+c000000004BFAA6360000000000000155
+t1274717750
+s341
+i<string>
+
+N/Users/provdk/Documents/cppdb/StringUtils.cpp
+c000000004BFA935C0000000000000162
+t1274712924
+s354
+i<string>
+i"StringUtils.h"
+
+N/Users/provdk/Documents/cppdb/StringUtils.h
+c000000004BFA9366000000000000006A
+t1274712934
+s106
+i<string>
+
+N/Users/provdk/Documents/cppdb/Table.cpp
+c000000004BF9DCD700000000000000AF
+t1274666199
+s175
+i<map>
+i<vector>
+i"Table.h"
+
+N/Users/provdk/Documents/cppdb/Table.h
+c000000004BF9DEFC000000000000010C
+t1274666748
+s268
+i<vector>
+i<sstream>
+i<map>
+
+N/Users/provdk/Documents/cppdb/build/Debug/cppdb
+t1274737068
+s213888
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/DataBase.o
+t1274718069
+s385996
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/InputTokeizer.o
+t2
+s0
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/MainDB.o
+t2
+s0
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringTokenizer.o
+t1274737068
+s88772
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringUtils.o
+t1274713023
+s35080
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/Table.o
+t1274667708
+s198884
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/cppdb.LinkFileList
+c000000004BFA535300000000000001F2
+t1274696531
+s498
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o
+t1274717803
+s611696
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.s
+t1274665211
+s2239070
+
+N/Users/provdk/Documents/cppdb/main.cpp
+c000000004BFA93BE00000000000017EC
+t1274713022
+s6124
+i<algorithm>
+i<iostream>
+i<fstream>
+i<string>
+i<vector>
+i<sstream>
+i<map>
+i"StringConsts.h"
+i"StringTokenizer.h"
+i"StringUtils.h"
+i"DataBase.h"
+
+C<C0003:'CompileC main.o':P8:W0>
+s296358010.590761
+e296358011.541676
+r1
+xCompileC
+xbuild/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o
+x/Users/provdk/Documents/cppdb/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/provdk/Documents/cppdb/main.cpp:27: warning: deprecated conversion from string constant to 'char*'
+lSLF07#2@46"Compile /Users/provdk/Documents/cppdb/main.cpp296358010#296358011#0(106"/Users/provdk/Documents/cppdb/main.cpp:27: warning: deprecated conversion from string constant to 'char*'1(22@53"Deprecated conversion from string constant to 'char*'296358011#0#106#0(6@38"/Users/provdk/Documents/cppdb/main.cpp296357950#27#0#27#0#49"deprecated conversion from string constant to '*'0(0#0#38"/Users/provdk/Documents/cppdb/main.cpp3907004821821025792#1156"    cd /Users/provdk/Documents/cppdb    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-generated-files.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-own-target-headers.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-project-headers.hmap -F/Users/provdk/Documents/cppdb/build/Debug -I/Users/provdk/Documents/cppdb/build/Debug/include -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources -S /Users/provdk/Documents/cppdb/main.cpp -o /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.s0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296429867#296429867#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/DataBase.o /Users/provdk/Documents/cppdb/DataBase.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s296410868.448896
+e296410869.211908
+r1
+xCompileC
+xbuild/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/DataBase.o
+x/Users/provdk/Documents/cppdb/DataBase.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/provdk/Documents/cppdb/DataBase.cpp296410868#296410869#0(0"0(0#0#42"/Users/provdk/Documents/cppdb/DataBase.cpp4300911832#1164"    cd /Users/provdk/Documents/cppdb    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-generated-files.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-own-target-headers.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-project-headers.hmap -F/Users/provdk/Documents/cppdb/build/Debug -I/Users/provdk/Documents/cppdb/build/Debug/include -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources -c /Users/provdk/Documents/cppdb/DataBase.cpp -o /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/DataBase.o0#
+
+CCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/InputTokeizer.o /Users/provdk/Documents/cppdb/InputTokeizer.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/MainDB.o /Users/provdk/Documents/cppdb/MainDB.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s296363107.398737
+e296363107.864514
+r0
+xCompileC
+xbuild/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/MainDB.o
+x/Users/provdk/Documents/cppdb/MainDB.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/provdk/Documents/cppdb/MainDB.h:3,
+o                 from /Users/provdk/Documents/cppdb/MainDB.cpp:7:
+o/Users/provdk/Documents/cppdb/Table.h:9: error: redefinition of 'class Table'
+o/Users/provdk/Documents/cppdb/Table.h:9: error: previous definition of 'class Table'
+o/Users/provdk/Documents/cppdb/MainDB.cpp: In member function 'std::string MainDB::getDBDump()':
+o/Users/provdk/Documents/cppdb/MainDB.cpp:37: error: 'r' was not declared in this scope
+lSLF07#2@48"Compile /Users/provdk/Documents/cppdb/MainDB.cpp296363107#296363107#0(476"In file included from /Users/provdk/Documents/cppdb/MainDB.h:3,                 from /Users/provdk/Documents/cppdb/MainDB.cpp:7:/Users/provdk/Documents/cppdb/Table.h:9: error: redefinition of 'class Table'/Users/provdk/Documents/cppdb/Table.h:9: error: previous definition of 'class Table'/Users/provdk/Documents/cppdb/MainDB.cpp: In member function 'std::string MainDB::getDBDump()':/Users/provdk/Documents/cppdb/MainDB.cpp:37: error: 'r' was not declared in this scope3(4@29"Redefinition of 'class Table'296363107#130#78#3(7@62"In file included from /Users/provdk/Documents/cppdb/MainDB.cpp296363107#18446744073709551615#0#0(6@40"/Users/provdk/Documents/cppdb/MainDB.cpp296363077#7#0#7#0#0"0(7@60"In file included from /Users/provdk/Documents/cppdb/MainDB.h296363107#18446744073709551615#0#0(6@38"/Users/provdk/Documents/cppdb/MainDB.h296362727#3#0#3#0#0"0(13@70"Redefinition of 'class Table' in /Users/provdk/Documents/cppdb/Table.h296363107#18446744073709551615#0#0(6@37"/Users/provdk/Documents/cppdb/Table.h296359548#9#0#9#0#0"0(6@37"/Users/provdk/Documents/cppdb/Table.h296359548#9#0#9#0#19"redefinition of '*'0(13@36"Previous definition of 'class Table'296363107#208#85#3(7@62"In file included from /Users/provdk/Documents/cppdb/MainDB.cpp296363107#18446744073709551615#0#0(6@40"/Users/provdk/Documents/cppdb/MainDB.cpp296363077#7#0#7#0#0"0(7@60"In file included from /Users/provdk/Documents/cppdb/MainDB.h296363107#18446744073709551615#0#0(6@38"/Users/provdk/Documents/cppdb/MainDB.h296362727#3#0#3#0#0"0(13@77"Previous definition of 'class Table' in /Users/provdk/Documents/cppdb/Table.h296363107#18446744073709551615#0#0(6@37"/Users/provdk/Documents/cppdb/Table.h296359548#9#0#9#0#0"0(6@37"/Users/provdk/Documents/cppdb/Table.h296359548#9#0#9#0#0"0(4@34"'r' was not declared in this scope296363107#389#87#0(6@40"/Users/provdk/Documents/cppdb/MainDB.cpp296363077#37#0#37#0#34"'*' was not declared in this scope0(0#0#40"/Users/provdk/Documents/cppdb/MainDB.cpp4300911832#1160"    cd /Users/provdk/Documents/cppdb    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-generated-files.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-own-target-headers.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-project-headers.hmap -F/Users/provdk/Documents/cppdb/build/Debug -I/Users/provdk/Documents/cppdb/build/Debug/include -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources -c /Users/provdk/Documents/cppdb/MainDB.cpp -o /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/MainDB.o1#
+
+CCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringTokenizer.o /Users/provdk/Documents/cppdb/StringTokenizer.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s296429867.832379
+e296429868.251844
+r1
+xCompileC
+xbuild/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringTokenizer.o
+x/Users/provdk/Documents/cppdb/StringTokenizer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/provdk/Documents/cppdb/StringTokenizer.cpp296429867#296429868#0(0"0(0#0#49"/Users/provdk/Documents/cppdb/StringTokenizer.cpp4300911832#1178"    cd /Users/provdk/Documents/cppdb    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-generated-files.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-own-target-headers.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-project-headers.hmap -F/Users/provdk/Documents/cppdb/build/Debug -I/Users/provdk/Documents/cppdb/build/Debug/include -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources -c /Users/provdk/Documents/cppdb/StringTokenizer.cpp -o /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringTokenizer.o0#
+
+CCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringUtils.o /Users/provdk/Documents/cppdb/StringUtils.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s296405822.988412
+e296405823.206451
+r1
+xCompileC
+xbuild/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringUtils.o
+x/Users/provdk/Documents/cppdb/StringUtils.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/provdk/Documents/cppdb/StringUtils.cpp296405822#296405823#0(0"0(0#0#45"/Users/provdk/Documents/cppdb/StringUtils.cpp4300911832#1170"    cd /Users/provdk/Documents/cppdb    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-generated-files.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-own-target-headers.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-project-headers.hmap -F/Users/provdk/Documents/cppdb/build/Debug -I/Users/provdk/Documents/cppdb/build/Debug/include -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources -c /Users/provdk/Documents/cppdb/StringUtils.cpp -o /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/StringUtils.o0#
+
+CCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/Table.o /Users/provdk/Documents/cppdb/Table.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s296360507.615568
+e296360508.347879
+r1
+xCompileC
+xbuild/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/Table.o
+x/Users/provdk/Documents/cppdb/Table.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/provdk/Documents/cppdb/Table.cpp296360507#296360508#0(0"0(0#0#39"/Users/provdk/Documents/cppdb/Table.cpp4300911832#1158"    cd /Users/provdk/Documents/cppdb    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-generated-files.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-own-target-headers.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-project-headers.hmap -F/Users/provdk/Documents/cppdb/build/Debug -I/Users/provdk/Documents/cppdb/build/Debug/include -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources -c /Users/provdk/Documents/cppdb/Table.cpp -o /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/Table.o0#
+
+CCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o /Users/provdk/Documents/cppdb/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s296410601.926049
+e296410603.142227
+r1
+xCompileC
+xbuild/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o
+x/Users/provdk/Documents/cppdb/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/provdk/Documents/cppdb/main.cpp:9:
+o/Users/provdk/Documents/cppdb/StringConsts.h:20: warning: deprecated conversion from string constant to 'char*'
+o/Users/provdk/Documents/cppdb/StringConsts.h:21: warning: deprecated conversion from string constant to 'char*'
+lSLF07#2@46"Compile /Users/provdk/Documents/cppdb/main.cpp296410601#296410603#0(288"In file included from /Users/provdk/Documents/cppdb/main.cpp:9:/Users/provdk/Documents/cppdb/StringConsts.h:20: warning: deprecated conversion from string constant to 'char*'/Users/provdk/Documents/cppdb/StringConsts.h:21: warning: deprecated conversion from string constant to 'char*'2(22@53"Deprecated conversion from string constant to 'char*'296410602#64#112#2(7@60"In file included from /Users/provdk/Documents/cppdb/main.cpp296410602#18446744073709551615#0#0(6@38"/Users/provdk/Documents/cppdb/main.cpp296405822#9#0#9#0#0"0(13@101"Deprecated conversion from string constant to 'char*' in /Users/provdk/Documents/cppdb/StringConsts.h296410602#18446744073709551615#0#0(6@44"/Users/provdk/Documents/cppdb/StringConsts.h296394572#20#0#20#0#0"0(6@44"/Users/provdk/Documents/cppdb/StringConsts.h296394572#20#0#20#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'296410602#176#112#2(7@60"In file included from /Users/provdk/Documents/cppdb/main.cpp296410602#18446744073709551615#0#0(6@38"/Users/provdk/Documents/cppdb/main.cpp296405822#9#0#9#0#0"0(13@101"Deprecated conversion from string constant to 'char*' in /Users/provdk/Documents/cppdb/StringConsts.h296410602#18446744073709551615#0#0(6@44"/Users/provdk/Documents/cppdb/StringConsts.h296394572#21#0#21#0#0"0(6@44"/Users/provdk/Documents/cppdb/StringConsts.h296394572#21#0#21#0#49"deprecated conversion from string constant to '*'0(0#0#38"/Users/provdk/Documents/cppdb/main.cpp4300911832#1156"    cd /Users/provdk/Documents/cppdb    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-generated-files.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-own-target-headers.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-project-headers.hmap -F/Users/provdk/Documents/cppdb/build/Debug -I/Users/provdk/Documents/cppdb/build/Debug/include -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources -c /Users/provdk/Documents/cppdb/main.cpp -o /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/provdk/Documents/cppdb/build/Debug/cppdb normal x86_64
+s296429868.251933
+e296429868.290471
+r1
+xLd
+x/Users/provdk/Documents/cppdb/build/Debug/cppdb
+xnormal
+xx86_64
+lSLF07#2@52"Link /Users/provdk/Documents/cppdb/build/Debug/cppdb296429868#296429868#0(0"0(0#0#0"4300911832#445"    cd /Users/provdk/Documents/cppdb    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/provdk/Documents/cppdb/build/Debug -F/Users/provdk/Documents/cppdb/build/Debug -filelist /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/cppdb.LinkFileList -mmacosx-version-min=10.6 -o /Users/provdk/Documents/cppdb/build/Debug/cppdb0#
+

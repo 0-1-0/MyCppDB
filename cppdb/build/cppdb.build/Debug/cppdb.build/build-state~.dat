@@ -1,0 +1,59 @@
+Tcppdb
+v7
+r0
+t296321327.221548
+cCheck dependencies
+cCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o /Users/provdk/Documents/cppdb/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/provdk/Documents/cppdb/build/Debug/cppdb normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Users/provdk/Documents/cppdb/build/Debug/cppdb
+t1274628527
+s10984
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/cppdb.LinkFileList
+c000000004BF949AE000000000000005F
+t1274628526
+s95
+
+N/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o
+t1274628526
+s70008
+
+N/Users/provdk/Documents/cppdb/main.cpp
+c000000004BF949AC00000000000000A6
+t1274628524
+s166
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296321326#296321326#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o /Users/provdk/Documents/cppdb/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s296321326.389969
+e296321326.962842
+r1
+xCompileC
+xbuild/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o
+x/Users/provdk/Documents/cppdb/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/provdk/Documents/cppdb/main.cpp296321326#296321326#0(0"0(0#0#38"/Users/provdk/Documents/cppdb/main.cpp3907004821821025792#1156"    cd /Users/provdk/Documents/cppdb    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-generated-files.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-own-target-headers.hmap -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/cppdb-project-headers.hmap -F/Users/provdk/Documents/cppdb/build/Debug -I/Users/provdk/Documents/cppdb/build/Debug/include -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/DerivedSources -c /Users/provdk/Documents/cppdb/main.cpp -o /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/provdk/Documents/cppdb/build/Debug/cppdb normal x86_64
+s296321326.962959
+e296321327.221488
+r1
+xLd
+x/Users/provdk/Documents/cppdb/build/Debug/cppdb
+xnormal
+xx86_64
+lSLF07#2@52"Link /Users/provdk/Documents/cppdb/build/Debug/cppdb296321326#296321327#0(0"0(0#0#0"30962681237012596#445"    cd /Users/provdk/Documents/cppdb    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/provdk/Documents/cppdb/build/Debug -F/Users/provdk/Documents/cppdb/build/Debug -filelist /Users/provdk/Documents/cppdb/build/cppdb.build/Debug/cppdb.build/Objects-normal/x86_64/cppdb.LinkFileList -mmacosx-version-min=10.6 -o /Users/provdk/Documents/cppdb/build/Debug/cppdb0#
+

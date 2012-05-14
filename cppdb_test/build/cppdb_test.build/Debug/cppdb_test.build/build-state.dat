@@ -1,0 +1,59 @@
+Tcppdb_test
+v7
+r0
+t296396904.145160
+cCheck dependencies
+cCompileC build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o /Users/provdk/Documents/cppdb_test/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/provdk/Documents/cppdb_test/build/Debug/cppdb_test normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Users/provdk/Documents/cppdb_test/build/Debug/cppdb_test
+t1274704104
+s15832
+
+N/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/cppdb_test.LinkFileList
+c000000004BFA62B7000000000000006E
+t1274700471
+s110
+
+N/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o
+t1274704071
+s81944
+
+N/Users/provdk/Documents/cppdb_test/main.cpp
+c000000004BFA713D0000000000000507
+t1274704189
+s1287
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296396904#296396904#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o /Users/provdk/Documents/cppdb_test/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s296396904.122175
+e296396904.123393
+r1
+xCompileC
+xbuild/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o
+x/Users/provdk/Documents/cppdb_test/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/provdk/Documents/cppdb_test/main.cpp296396904#296396904#0(220"/Users/provdk/Documents/cppdb_test/main.cpp:8: warning: deprecated conversion from string constant to 'char*'/Users/provdk/Documents/cppdb_test/main.cpp:9: warning: deprecated conversion from string constant to 'char*'2(22@53"Deprecated conversion from string constant to 'char*'296396904#0#110#0(6@43"/Users/provdk/Documents/cppdb_test/main.cpp296396870#8#0#8#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'296396904#110#110#0(6@43"/Users/provdk/Documents/cppdb_test/main.cpp296396870#9#0#9#0#49"deprecated conversion from string constant to '*'0(0#0#43"/Users/provdk/Documents/cppdb_test/main.cpp4300911832#1301"    cd /Users/provdk/Documents/cppdb_test    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/cppdb_test-generated-files.hmap -I/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/cppdb_test-own-target-headers.hmap -I/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/cppdb_test-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/cppdb_test-project-headers.hmap -F/Users/provdk/Documents/cppdb_test/build/Debug -I/Users/provdk/Documents/cppdb_test/build/Debug/include -I/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/DerivedSources -c /Users/provdk/Documents/cppdb_test/main.cpp -o /Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/provdk/Documents/cppdb_test/build/Debug/cppdb_test normal x86_64
+s296396904.123453
+e296396904.145112
+r1
+xLd
+x/Users/provdk/Documents/cppdb_test/build/Debug/cppdb_test
+xnormal
+xx86_64
+lSLF07#2@62"Link /Users/provdk/Documents/cppdb_test/build/Debug/cppdb_test296396904#296396904#0(0"0(0#0#0"4300911832#490"    cd /Users/provdk/Documents/cppdb_test    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/provdk/Documents/cppdb_test/build/Debug -F/Users/provdk/Documents/cppdb_test/build/Debug -filelist /Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/cppdb_test.LinkFileList -mmacosx-version-min=10.6 -o /Users/provdk/Documents/cppdb_test/build/Debug/cppdb_test0#
+

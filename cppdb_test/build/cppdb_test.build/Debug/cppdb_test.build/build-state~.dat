@@ -1,0 +1,51 @@
+Tcppdb_test
+v7
+r0
+t296393271.685539
+cCheck dependencies
+cCompileC build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o /Users/provdk/Documents/cppdb_test/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Users/provdk/Documents/cppdb_test/build/Debug/cppdb_test
+t2
+s0
+
+N/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/cppdb_test.LinkFileList
+c000000004BFA62B7000000000000006E
+t1274700471
+s110
+
+N/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/provdk/Documents/cppdb_test/main.cpp
+c000000004BFA62B500000000000001E7
+t1274700469
+s487
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296393271#296393271#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o /Users/provdk/Documents/cppdb_test/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s296393271.684185
+e296393271.685479
+r0
+xCompileC
+xbuild/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o
+x/Users/provdk/Documents/cppdb_test/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/provdk/Documents/cppdb_test/main.cpp296393271#296393271#0(325"/Users/provdk/Documents/cppdb_test/main.cpp:7: warning: deprecated conversion from string constant to 'char*'/Users/provdk/Documents/cppdb_test/main.cpp: In function 'int main(int, char* const*)':/Users/provdk/Documents/cppdb_test/main.cpp:11: error: aggregate 'std::fstream File' has incomplete type and cannot be defined2(22@53"Deprecated conversion from string constant to 'char*'296393271#0#110#0(6@43"/Users/provdk/Documents/cppdb_test/main.cpp296393269#7#0#7#0#49"deprecated conversion from string constant to '*'0(4@71"Aggregate 'std::fstream File' has incomplete type and cannot be defined296393271#198#127#0(6@43"/Users/provdk/Documents/cppdb_test/main.cpp296393269#11#0#11#0#0"0(0#0#43"/Users/provdk/Documents/cppdb_test/main.cpp4300911832#1301"    cd /Users/provdk/Documents/cppdb_test    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/cppdb_test-generated-files.hmap -I/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/cppdb_test-own-target-headers.hmap -I/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/cppdb_test-all-target-headers.hmap -iquote /Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/cppdb_test-project-headers.hmap -F/Users/provdk/Documents/cppdb_test/build/Debug -I/Users/provdk/Documents/cppdb_test/build/Debug/include -I/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/DerivedSources/x86_64 -I/Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/DerivedSources -c /Users/provdk/Documents/cppdb_test/main.cpp -o /Users/provdk/Documents/cppdb_test/build/cppdb_test.build/Debug/cppdb_test.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/provdk/Documents/cppdb_test/build/Debug/cppdb_test normal x86_64
+r0
+
